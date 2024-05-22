@@ -1,6 +1,6 @@
 # Introduction
 This is a graphQL full stack application that serves as playground to experiment different ideas
-# Purpose
+# Features Overview
 - Experiment what benefits we get by using graphQL API
 - Build full graphQL API
 - Connect to the database
@@ -28,10 +28,10 @@ This is a graphQL full stack application that serves as playground to experiment
 - shadcn
 - React-icons
 - Docker
-  # Datasource
+# Datasource
   - Spotify REST API
   - postgres
-  # Deployment
+# Deployment
   - Azure
   - AWS
     
